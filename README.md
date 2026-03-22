@@ -53,27 +53,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryabstar@gmail.com)
 
 
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!-- First two stats side by side -->
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=false&count_private=truetext_color=0000009F&title_color=1e40af" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=0000009F&title_color=1e40af" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Streak stats centered -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sb6376&theme=white&background=FFFFFF&fire=1e40af&currStreakLabel=1e40af&sideNums=0000009F&dates=555555" alt="GitHub Streak" />
-
-</div>
